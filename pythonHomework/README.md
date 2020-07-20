@@ -30,12 +30,14 @@
 * Print a `string` that includes the players name
 * Create a `while loop`
 * Convert user input with `python's inbuilt int() method` 
+* Validate deployed link with [w3.org](https://validator.w3.org/)
 * **_Hint_** use will use `random.randint` to randomize numbers 
 ---
 ## Homework Rubric 
 * Submitted On-Time: 50 pts
 * Submitted Late: 25 pts
-* Back End Functionality 50 pts
+* All Instructions Completed: 25 pts
+* Backend Functionality: 25 pts
 ---
 ## Remember TechBridge TECH Goals
 
